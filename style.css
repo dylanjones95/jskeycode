@@ -8,7 +8,7 @@
     
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 800px) {
     input {
         visibility: hidden;
         font-family: 'IBM Plex Serif', serif;
